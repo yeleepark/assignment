@@ -1,5 +1,3 @@
-# [WEB개발팀] WEB Front-end 개발자 포지션 지원자\_박서윤
-
 ## 🚀 개발 환경 구성
 
 - **Framework**: Next.js 13.5.6
